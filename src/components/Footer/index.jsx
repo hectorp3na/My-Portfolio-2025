@@ -15,6 +15,7 @@ import emailjs from "@emailjs/browser"
 import emailjsconfig from "../../constants/emailjs.json"
 import Alert from "../Alert"
 
+
 export default function Footer() {
   const controls = useAnimation()
   const [ref, inView] = useInView()
