@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Skinstric AI",
+    "role": "Frontend Engineer",
+    "resps": [
+      "Architected and deployed a real-time AI skin analysis platform using Next.js, OpenAI Vision API, and a 4D Mini model, achieving 98% detection accuracy across diverse skin conditions through an optimized image-processing pipeline",
+      "Engineered an engaging, responsive user interface with TailwindCSS, GSAP timeline animations, and Lottie assets, including dynamic skincare recommendation cards that drove a 60% boost in user engagement and a 40% increase in retention during analysis flows",
+      "Optimized performance and scalability by leveraging Next.js Server Components and a modular UI component library for skincare product displays, reducing analysis time to under 2 seconds and enabling rapid A/B testing of recommendation layouts"
+    ],
+    "date": "June 2025 - July 2025"
+  },
+  {
+    "company": "Frontend Simplified",
+    "role": "Software Engineer",
+    "resps": [
+      "Completed a structured frontend development program covering HTML, CSS, JavaScript, React, Git/GitHub, and TypeScript, with a focus on building real-world, production-ready applications",
+      "Developed multiple responsive web projects (e-commerce store, movie database, dashboards) using React, Tailwind CSS, and API integrations, showcasing strong UI/UX skills and modern best practices",
+      "Collaborated in a peer-learning environment to solve coding challenges, perform code reviews, and prepare for technical interviews, gaining hands-on experience with agile workflows and version control",
+      "Applied responsive design principles with Tailwind CSS and Flexbox/Grid, ensuring accessibility and seamless user experiences across desktop and mobile devices",
+      "Gained hands-on experience with real-world developer workflows, including Git branching, pull requests, and code reviews, simulating professional team environments"
+    ],
+    "date": "Feb 2025 - Present"
+  }
+]
