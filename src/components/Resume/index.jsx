@@ -75,7 +75,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/hector-pena-2b2079171/?trk=opento_sprofile_details" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="" target="_blank" rel="noreferrer">
+                <a href="file:///Users/hectorpena/Downloads/Hector%20Pena%20FES%20Resume.docx.pdf" target="_blank" rel="noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>

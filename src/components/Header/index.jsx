@@ -81,7 +81,7 @@ export default function Header() {
             </ScrambleText>
           </a>
           <span className="header--hash">{"//"}</span>
-          <a href="/" target={"_blank"} rel="noopener noreferrer">
+          <a href="file:///Users/hectorpena/Downloads/Hector%20Pena%20FES%20Resume.docx.pdf" target={"_blank"} rel="noopener noreferrer">
             <ScrambleText shuffle delay={1.5}>
               RESUME
             </ScrambleText>
